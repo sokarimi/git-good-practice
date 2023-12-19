@@ -1,1 +1,13 @@
 git status
+
+'git commit'
+
+commit changes to the repository
+
+git log
+
+
+git mv <esisting file name> <new file name>  (to change the name)
+
+git rm <file>
+cgcfgfcgcf
